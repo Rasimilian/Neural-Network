@@ -6,5 +6,5 @@ Optics correction using deep learning.
 
 Elements: 26 quadupoles. Parameters: field gradients.
 
-Input: beam x and y orbits, 108 points (54 BPMs*2) or beam x and y dbeta function in 108 locations (54 BPMs*2).
+Input: beam x and y orbits, 108 points (54 BPMs x2) or beam x and y dbeta function in 108 locations (54 BPMs*2).
 Output: 26 error values.
